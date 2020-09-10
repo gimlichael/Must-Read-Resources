@@ -17,6 +17,8 @@ Sharing is caring :-)
 **NICE TO HAVE**
 
 - [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258/)
+- [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/)
+- [CLR via C#](https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454/)
 
 **SOLID FOCUS**
 
@@ -25,3 +27,11 @@ Sharing is caring :-)
 - [SOLID: Part 1 - The Single Responsibility Principle](https://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074)
 - [From STUPID to SOLID Code!](http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 - [SOLID Principles In C#](http://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/)
+
+**DESIGN PATTERNS**
+
+- [Refactoring Guru](https://refactoring.guru/)
+- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [Build an application using microservices and CQRS](https://developer.ibm.com/technologies/microservices/articles/cl-build-app-using-microservices-and-cqrs-trs/)
+- [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-3.1)
+- [CQRS Journey Reference Implementation](https://github.com/microsoftarchive/cqrs-journey)
