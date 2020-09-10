@@ -1,4 +1,4 @@
-# Various resources to support Software Craftsmanship
+# Software craftsmanship - a journey with inspirational sources!
 
 A collection of highly recommended resources; if you have a must-read resource, please contribute.
 Sharing is caring 😎
