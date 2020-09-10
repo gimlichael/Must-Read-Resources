@@ -1,7 +1,9 @@
-# Books and links to supoprt Software Craftsmanship
+# Various resources to support Software Craftsmanship
 
 A collection of highly recommended books; if you have a proposal, please contribute.
 Sharing is caring :-)
+
+## Books
 
 **JUST BUY IT ALREADY**
 
@@ -20,6 +22,8 @@ Sharing is caring :-)
 - [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/)
 - [CLR via C#](https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454/)
 
+## Links
+
 **SOLID FOCUS**
 
 - [Separation of Concerns in Software Design](https://nalexn.github.io/separation-of-concerns/)
@@ -35,3 +39,4 @@ Sharing is caring :-)
 - [Build an application using microservices and CQRS](https://developer.ibm.com/technologies/microservices/articles/cl-build-app-using-microservices-and-cqrs-trs/)
 - [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-3.1)
 - [CQRS Journey Reference Implementation](https://github.com/microsoftarchive/cqrs-journey)
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
