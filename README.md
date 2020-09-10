@@ -39,7 +39,7 @@ Sharing is caring 😎
 
 **DESIGN PATTERNS / GUIDELINES**
 
-- [Microsoft Engineering Guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines) 👀
+- [Microsoft Engineering Guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines) 👀🎉
 - [Refactoring Guru](https://refactoring.guru/)
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) 👀
 - [Build an application using microservices and CQRS](https://developer.ibm.com/technologies/microservices/articles/cl-build-app-using-microservices-and-cqrs-trs/) 👀
